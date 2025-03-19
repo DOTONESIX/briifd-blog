@@ -1,6 +1,6 @@
 title = "My Docs"
 baseurl = "https://dotonesix.github.io/briifd-blog/"
-canonifyURLs = false
+canonifyURLs = true
 relativeURLs = true
 publishDir = "docs"
 disableAliases = true
