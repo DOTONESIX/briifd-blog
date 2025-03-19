@@ -21,6 +21,9 @@ defaultContentLanguageInSubdir = false
 
 copyRight = "Copyright (c) 2020-2024 Thulite"
 
+[params]
+  pathPrefix = "briifd-blog"
+
 [build.buildStats]
   enable = true
 
