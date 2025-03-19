@@ -1,0 +1,1 @@
+You must add "/briifd-blog" in front of the path in docs/index.html
