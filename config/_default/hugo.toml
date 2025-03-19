@@ -3,7 +3,6 @@ baseurl = "https://dotonesix.github.io/briifd-blog/"
 canonifyURLs = true
 relativeURLs = false
 publishDir = "docs"
-theme = "doks"
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
