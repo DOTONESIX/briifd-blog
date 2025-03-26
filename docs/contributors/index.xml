@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contributors on Briifd</title>
-    <link>http://localhost:1313/contributors/</link>
+    <link>/contributors/</link>
     <description>Recent content in Contributors on Briifd</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Wed, 19 Mar 2025 16:27:22 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/contributors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/contributors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andrew Dunkel</title>
-      <link>http://localhost:1313/contributors/andrew-dunkel/</link>
+      <link>/contributors/andrew-dunkel/</link>
       <pubDate>Wed, 19 Mar 2025 16:27:22 +0200</pubDate>
-      <guid>http://localhost:1313/contributors/andrew-dunkel/</guid>
+      <guid>/contributors/andrew-dunkel/</guid>
       <description></description>
     </item>
   </channel>

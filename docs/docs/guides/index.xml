@@ -2,47 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guides on Briifd</title>
-    <link>http://localhost:1313/docs/guides/</link>
+    <link>/docs/guides/</link>
     <description>Recent content in Guides on Briifd</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Wed, 19 Mar 2025 16:04:48 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/guides/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/docs/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:1313/docs/guides/getting-started/</link>
+      <link>/docs/guides/getting-started/</link>
       <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/guides/getting-started/</guid>
+      <guid>/docs/guides/getting-started/</guid>
       <description>&lt;p&gt;Briifd is an AI-first media monitoring tool. We use ChatGPT as the interface for our AI media analyst. This guide will help you get started with Briifd and ChatGPT.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Track Your First Topic</title>
-      <link>http://localhost:1313/docs/guides/track-your-first-topic/</link>
+      <link>/docs/guides/track-your-first-topic/</link>
       <pubDate>Wed, 19 Mar 2025 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/guides/track-your-first-topic/</guid>
+      <guid>/docs/guides/track-your-first-topic/</guid>
       <description>&lt;p&gt;Now that your account is set up, we can start tracking topics and search terms using the AI assistant. Simply tell the assistant what company or topic you are interested in tracking, and it will suggest the best search terms to use.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Article Analysis</title>
-      <link>http://localhost:1313/docs/guides/article-analysis/</link>
+      <link>/docs/guides/article-analysis/</link>
       <pubDate>Wed, 19 Mar 2025 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/guides/article-analysis/</guid>
+      <guid>/docs/guides/article-analysis/</guid>
       <description>&lt;p&gt;One of the most powerful features of having an AI media analyst is the ability to search and filter across thousands of articles in seconds. This guide will show you how to use the AI assistant to analyze articles and extract insights.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ad Hoc Reports</title>
-      <link>http://localhost:1313/docs/guides/ad-hoc-reports/</link>
+      <link>/docs/guides/ad-hoc-reports/</link>
       <pubDate>Wed, 19 Mar 2025 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/guides/ad-hoc-reports/</guid>
+      <guid>/docs/guides/ad-hoc-reports/</guid>
       <description>&lt;p&gt;A significant time-saving feature of Briifd is the ability to create reports on demand. This guide will show you how to run ad hoc reports in Briifd and customize them to suit your needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Automated Reports</title>
-      <link>http://localhost:1313/docs/guides/automated-reports/</link>
+      <link>/docs/guides/automated-reports/</link>
       <pubDate>Wed, 19 Mar 2025 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/guides/automated-reports/</guid>
+      <guid>/docs/guides/automated-reports/</guid>
       <description>&lt;p&gt;Automated reports are a powerful feature of Briifd that allow you to receive regular updates on the topics and search terms you are tracking. By setting up automated reports, you can stay informed about the latest news and trends in your industry without having to manually search for information.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example Guide</title>
+      <link>/docs/guides/example-guide/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>/docs/guides/example-guide/</guid>
+      <description>&lt;p&gt;Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
