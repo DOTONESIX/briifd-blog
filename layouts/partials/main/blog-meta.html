@@ -1,0 +1,7 @@
+{{ with .Params.contributors }}
+  {{ if gt (len .) 0 }}
+    <p>Contributors: {{ delimit . ", " }}</p>
+  {{ end }}
+{{ else }}
+  <!-- No contributors field, so we skip rendering -->
+{{ end }}

@@ -1,1 +1,4 @@
-<!-- Custom head -->
+{{ $pathPrefix := .Site.Params.pathPrefix }}
+<link rel="stylesheet" href="{{ printf "%s/%s" $pathPrefix "main.css" | relURL }}">
+<script src="{{ printf "%s/%s" $pathPrefix "js/app.js" | relURL }}"></script>
+<link rel="icon" href="{{ printf "%s/%s" $pathPrefix "favicon.ico" | relURL }}">

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media Monitoring on Briifd</title>
+    <link>http://localhost:1313/tags/media-monitoring/</link>
+    <description>Recent content in Media Monitoring on Briifd</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 16:27:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/media-monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of AI in Media Monitoring</title>
+      <link>http://localhost:1313/blog/the-future-of-ai-in-media-monitoring/</link>
+      <pubDate>Wed, 19 Mar 2025 16:27:22 +0200</pubDate>
+      <guid>http://localhost:1313/blog/the-future-of-ai-in-media-monitoring/</guid>
+      <description>&lt;h2 id=&#34;the-future-of-ai-in-media-monitoring&#34;&gt;The Future of AI in Media Monitoring&lt;/h2&gt;&#xA;&lt;p&gt;Artificial Intelligence (AI) is reshaping how businesses track, analyze, and respond to media coverage. Traditional media monitoring required hours of manual work, but AI-driven tools now automate this process, delivering faster and more insightful reports.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
